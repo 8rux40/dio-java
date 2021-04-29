@@ -7,9 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="149fb175-dc0c-4b86-bc20-08dd49a375d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tardin/desafio/iniciando_programacao_em_java/ExibindoNumerosPares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/tardin/desafios/iniciando_programacao_em_java/ExibindoNumerosParesTest.java" afterDir="false" />
+    <list default="true" id="149fb175-dc0c-4b86-bc20-08dd49a375d7" name="Default Changelist" comment="Configurações do projeto no IntelliJ IDEA">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,17 +36,6 @@
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="dio_java" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="dio_java" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build" type="c8890929:TasksNode$1" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="dio_java" type="f1a62948:ProjectNode" />
                 <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
               </path>
             </expand>
@@ -62,6 +50,16 @@
       <list>
         <option value="Class" />
       </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/master" />
+  </component>
+  <component name="Git.Pull.Settings">
+    <option name="OPTIONS">
+      <set>
+        <option value="NO_COMMIT" />
+      </set>
     </option>
   </component>
   <component name="Git.Settings">
@@ -82,10 +80,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -97,20 +97,7 @@
       <recent name="com.tardin.desafio.solucionando_desafios_matematicos_em_java" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.Tests in 'com.tardin.desafios.iniciando_programacao_em_java'">
-    <configuration name="EntradaESaidaCPF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tardin.desafio.iniciando_programacao_em_java.EntradaESaidaCPF" />
-      <module name="dio_java.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.tardin.desafio.iniciando_programacao_em_java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Gradle.CalculoDeViagemTest">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -124,54 +111,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C:/dev/Java/dio-java" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CalculoDeViagemTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.tardin.desafios.solucionando_desafios_matematicos_em_java.CalculoDeViagemTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="DDDTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
         <option name="scriptParameters" value="--tests &quot;com.tardin.desafios.iniciando_programacao_em_java.DDDTest&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="EntradaESaidaCPFTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.tardin.desafios.iniciando_programacao_em_java.EntradaESaidaCPFTest&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="ExibindoNumerosParesTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.tardin.desafios.iniciando_programacao_em_java.ExibindoNumerosParesTest&quot; --info" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -208,13 +193,28 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="CalculoDeViagemTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dio_java.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tardin.desafios.solucionando_desafios_matematicos_em_java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tardin.desafios.solucionando_desafios_matematicos_em_java" />
+      <option name="MAIN_CLASS_NAME" value="com.tardin.desafios.solucionando_desafios_matematicos_em_java.CalculoDeViagemTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.CalculoDeViagemTest" />
+        <item itemvalue="JUnit.CalculoDeViagemTest" />
+        <item itemvalue="Gradle.C:/dev/Java/dio-java" />
         <item itemvalue="Gradle.Tests in 'com.tardin.desafios.iniciando_programacao_em_java'" />
         <item itemvalue="Gradle.DDDTest" />
-        <item itemvalue="Gradle.EntradaESaidaCPFTest" />
-        <item itemvalue="Application.EntradaESaidaCPF" />
-        <item itemvalue="Gradle.ExibindoNumerosParesTest" />
       </list>
     </recent_temporary>
   </component>
@@ -227,8 +227,46 @@
       <option name="presentableId" value="Default" />
       <updated>1616685773254</updated>
       <workItem from="1619455867842" duration="545000" />
-      <workItem from="1619456455391" duration="46864000" />
+      <workItem from="1619456455391" duration="48142000" />
+      <workItem from="1619703858701" duration="262000" />
+      <workItem from="1619713603775" duration="2654000" />
     </task>
+    <task id="LOCAL-00001" summary="Primeiro desafio solucionado e testado">
+      <created>1619702355457</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619702355457</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Desafio solucionado e testado">
+      <created>1619702421330</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1619702421330</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Desafio DDD solucionado e testado">
+      <created>1619702457803</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1619702457803</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Configurações do projeto no IntelliJ IDEA">
+      <created>1619702597218</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1619702597218</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Configurações do projeto no IntelliJ IDEA">
+      <created>1619702732084</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1619702732084</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,5 +282,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primeiro desafio solucionado e testado" />
+    <MESSAGE value="Desafio &quot;Entrada e Saída CPF&quot; solucionado e testado" />
+    <MESSAGE value="Desafio &quot;DDD&quot; solucionado e testado" />
+    <MESSAGE value="Configurações do projeto no IntelliJ IDEA" />
+    <option name="LAST_COMMIT_MESSAGE" value="Configurações do projeto no IntelliJ IDEA" />
   </component>
 </project>
