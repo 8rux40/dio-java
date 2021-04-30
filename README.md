@@ -17,7 +17,6 @@ Sinta-se a vontade para contribuir, **crie uma issue ou pull request**!
 |-----------|--------|----------|----------|
 | Cálculo de viagem  | 🟪⬜⬜ |🏅 [**CalculoDeViagem.java**](https://github.com/8rux40/dio-java/blob/master/src/main/java/com/tardin/desafio/solucionando_desafios_matematicos_em_java/CalculoDeViagem.java) |✔ [CalculoDeViagemTest.java](https://github.com/8rux40/dio-java/blob/master/src/test/java/com/tardin/desafio/solucionando_desafios_matematicos_em_java/CalculoDeViagemTest.java)|
 | Área do Círculo| 🟪🟪⬜ |🏅 [**AreaDoCirculo.java**](https://github.com/8rux40/dio-java/blob/master/src/test/java/com/tardin/desafio/solucionando_desafios_matematicos_em_java/AreaDoCirculo.java) |✔ [AreaDoCirculo.java](https://github.com/8rux40/dio-java/blob/master/src/test/java/com/tardin/desafio/solucionando_desafios_matematicos_em_java/AreaDoCirculoTest.java)|
-|Área do Círculo| 🟪🟪⬜ | -- | --|
 |Folha de Pagamento|🟪🟪⬜| -- | --|
 |Múltiplos|🟪🟪⬜| -- | --|
 |Análise de Números|🟪⬜⬜| -- | --|
