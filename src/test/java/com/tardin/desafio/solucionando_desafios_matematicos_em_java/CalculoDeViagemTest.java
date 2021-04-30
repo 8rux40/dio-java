@@ -1,6 +1,5 @@
-package com.tardin.desafios.solucionando_desafios_matematicos_em_java;
+package com.tardin.desafio.solucionando_desafios_matematicos_em_java;
 
-import com.tardin.desafio.solucionando_desafios_matematicos_em_java.CalculoDeViagem;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.Test;
 import java.util.HashMap;

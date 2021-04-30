@@ -1,6 +1,5 @@
-package com.tardin.desafios.iniciando_programacao_em_java;
+package com.tardin.desafio.iniciando_programacao_em_java;
 
-import com.tardin.desafio.iniciando_programacao_em_java.ExibindoNumerosPares;
 import org.junit.jupiter.api.Test;
 
 import java.util.HashMap;

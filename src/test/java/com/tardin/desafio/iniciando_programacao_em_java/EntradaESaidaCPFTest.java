@@ -1,6 +1,5 @@
-package com.tardin.desafios.iniciando_programacao_em_java;
+package com.tardin.desafio.iniciando_programacao_em_java;
 
-import com.tardin.desafio.iniciando_programacao_em_java.EntradaESaidaCPF;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 import java.util.HashMap;
