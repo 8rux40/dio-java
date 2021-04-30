@@ -7,12 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="149fb175-dc0c-4b86-bc20-08dd49a375d7" name="Default Changelist" comment="Desafio &quot;Cálculo de Viagem&quot; solucionado e testado">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/tardin/desafios/iniciando_programacao_em_java/DDDTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tardin/desafio/iniciando_programacao_em_java/DDDTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/tardin/desafios/iniciando_programacao_em_java/EntradaESaidaCPFTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tardin/desafio/iniciando_programacao_em_java/EntradaESaidaCPFTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/tardin/desafios/iniciando_programacao_em_java/ExibindoNumerosParesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tardin/desafio/iniciando_programacao_em_java/ExibindoNumerosParesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/tardin/desafios/solucionando_desafios_matematicos_em_java/CalculoDeViagemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tardin/desafio/solucionando_desafios_matematicos_em_java/CalculoDeViagemTest.java" afterDir="false" />
+    <list default="true" id="149fb175-dc0c-4b86-bc20-08dd49a375d7" name="Default Changelist" comment="Desafio &quot;Área do Círculo&quot; solucionado e testado">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -232,7 +228,7 @@
       <workItem from="1619456455391" duration="48142000" />
       <workItem from="1619703858701" duration="262000" />
       <workItem from="1619713603775" duration="3250000" />
-      <workItem from="1619798844504" duration="1621000" />
+      <workItem from="1619798844504" duration="1994000" />
     </task>
     <task id="LOCAL-00001" summary="Primeiro desafio solucionado e testado">
       <created>1619702355457</created>
@@ -276,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619717787242</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Desafio &quot;Área do Círculo&quot; solucionado e testado">
+      <created>1619800637335</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1619800637335</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,6 +303,7 @@
     <MESSAGE value="Desafio &quot;DDD&quot; solucionado e testado" />
     <MESSAGE value="Configurações do projeto no IntelliJ IDEA" />
     <MESSAGE value="Desafio &quot;Cálculo de Viagem&quot; solucionado e testado" />
-    <option name="LAST_COMMIT_MESSAGE" value="Desafio &quot;Cálculo de Viagem&quot; solucionado e testado" />
+    <MESSAGE value="Desafio &quot;Área do Círculo&quot; solucionado e testado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desafio &quot;Área do Círculo&quot; solucionado e testado" />
   </component>
 </project>
