@@ -7,8 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="149fb175-dc0c-4b86-bc20-08dd49a375d7" name="Default Changelist" comment="Desafio &quot;Área do Círculo&quot; solucionado e testado">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="149fb175-dc0c-4b86-bc20-08dd49a375d7" name="Default Changelist" comment="Atualiza o README">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +97,7 @@
       <recent name="com.tardin.desafio.solucionando_desafios_matematicos_em_java" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.AreaDoCirculoTest">
+  <component name="RunManager" selected="Gradle.FolhaDePagamentoTest">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -170,12 +170,12 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="Tests in 'com.tardin.desafios.iniciando_programacao_em_java'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="FolhaDePagamentoTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.tardin.desafios.iniciando_programacao_em_java.*&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.tardin.desafio.solucionando_desafios_matematicos_em_java.FolhaDePagamentoTest&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -208,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.FolhaDePagamentoTest" />
         <item itemvalue="Gradle.AreaDoCirculoTest" />
         <item itemvalue="Gradle.CalculoDeViagemTest" />
         <item itemvalue="JUnit.CalculoDeViagemTest" />
         <item itemvalue="Gradle.C:/dev/Java/dio-java" />
-        <item itemvalue="Gradle.Tests in 'com.tardin.desafios.iniciando_programacao_em_java'" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +228,7 @@
       <workItem from="1619456455391" duration="48142000" />
       <workItem from="1619703858701" duration="262000" />
       <workItem from="1619713603775" duration="3250000" />
-      <workItem from="1619798844504" duration="1994000" />
+      <workItem from="1619798844504" duration="3968000" />
     </task>
     <task id="LOCAL-00001" summary="Primeiro desafio solucionado e testado">
       <created>1619702355457</created>
@@ -279,7 +279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619800637335</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Atualiza o README">
+      <created>1619800882448</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1619800882448</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -304,6 +311,7 @@
     <MESSAGE value="Configurações do projeto no IntelliJ IDEA" />
     <MESSAGE value="Desafio &quot;Cálculo de Viagem&quot; solucionado e testado" />
     <MESSAGE value="Desafio &quot;Área do Círculo&quot; solucionado e testado" />
-    <option name="LAST_COMMIT_MESSAGE" value="Desafio &quot;Área do Círculo&quot; solucionado e testado" />
+    <MESSAGE value="Atualiza o README" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualiza o README" />
   </component>
 </project>
