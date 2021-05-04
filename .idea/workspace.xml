@@ -7,7 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="149fb175-dc0c-4b86-bc20-08dd49a375d7" name="Default Changelist" comment="Update README.md">
+    <list default="true" id="149fb175-dc0c-4b86-bc20-08dd49a375d7" name="Default Changelist" comment="Soluciona e testa a solução do desafio &quot;Múltiplos&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +97,20 @@
       <recent name="com.tardin.desafio.solucionando_desafios_matematicos_em_java" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.MultiplosTest.testWithClosedInputs">
+  <component name="RunManager" selected="Gradle.AnaliseDeNumerosTest">
+    <configuration name="AnaliseDeNumeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tardin.desafio.solucionando_desafios_matematicos_em_java.AnaliseDeNumeros" />
+      <module name="dio_java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tardin.desafio.solucionando_desafios_matematicos_em_java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -109,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AreaDoCirculoTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="AnaliseDeNumerosTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.tardin.desafio.solucionando_desafios_matematicos_em_java.AreaDoCirculoTest&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.tardin.desafio.solucionando_desafios_matematicos_em_java.AnaliseDeNumerosTest&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -130,33 +143,12 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="CalculoDeViagemTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="AnaliseDeNumerosTest.testWithClosedInputs" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.tardin.desafios.solucionando_desafios_matematicos_em_java.CalculoDeViagemTest&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="FolhaDePagamentoTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.tardin.desafio.solucionando_desafios_matematicos_em_java.FolhaDePagamentoTest&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.tardin.desafio.solucionando_desafios_matematicos_em_java.AnaliseDeNumerosTest.testWithClosedInputs&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -216,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.AnaliseDeNumerosTest" />
+        <item itemvalue="Gradle.AnaliseDeNumerosTest.testWithClosedInputs" />
+        <item itemvalue="Application.AnaliseDeNumeros" />
         <item itemvalue="Gradle.MultiplosTest.testWithClosedInputs" />
         <item itemvalue="Gradle.MultiplosTest" />
-        <item itemvalue="Gradle.FolhaDePagamentoTest" />
-        <item itemvalue="Gradle.AreaDoCirculoTest" />
-        <item itemvalue="Gradle.CalculoDeViagemTest" />
       </list>
     </recent_temporary>
   </component>
@@ -301,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620048037477</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Soluciona e testa a solução do desafio &quot;Múltiplos&quot;">
+      <created>1620063951390</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1620063951390</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -328,6 +327,7 @@
     <MESSAGE value="Desafio &quot;Área do Círculo&quot; solucionado e testado" />
     <MESSAGE value="Atualiza o README" />
     <MESSAGE value="Update README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update README.md" />
+    <MESSAGE value="Soluciona e testa a solução do desafio &quot;Múltiplos&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Soluciona e testa a solução do desafio &quot;Múltiplos&quot;" />
   </component>
 </project>
