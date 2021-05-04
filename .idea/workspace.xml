@@ -7,7 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="149fb175-dc0c-4b86-bc20-08dd49a375d7" name="Default Changelist" comment="Soluciona e testa a solução do desafio &quot;Múltiplos&quot;">
+    <list default="true" id="149fb175-dc0c-4b86-bc20-08dd49a375d7" name="Default Changelist" comment="Soluciona e testa a solução do desafio &quot;Análise de Números&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +97,7 @@
       <recent name="com.tardin.desafio.solucionando_desafios_matematicos_em_java" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.AnaliseDeNumerosTest">
+  <component name="RunManager" selected="Gradle.MultiplicacaoSimplesTest">
     <configuration name="AnaliseDeNumeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tardin.desafio.solucionando_desafios_matematicos_em_java.AnaliseDeNumeros" />
       <module name="dio_java.main" />
@@ -164,12 +164,12 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="MultiplosTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="MultiplicacaoSimplesTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.tardin.desafio.solucionando_desafios_matematicos_em_java.MultiplosTest&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.tardin.desafio.solucionando_problemas_basicos_em_java.MultiplicacaoSimplesTest&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -208,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.MultiplicacaoSimplesTest" />
         <item itemvalue="Gradle.AnaliseDeNumerosTest" />
         <item itemvalue="Gradle.AnaliseDeNumerosTest.testWithClosedInputs" />
         <item itemvalue="Application.AnaliseDeNumeros" />
         <item itemvalue="Gradle.MultiplosTest.testWithClosedInputs" />
-        <item itemvalue="Gradle.MultiplosTest" />
       </list>
     </recent_temporary>
   </component>
@@ -300,7 +300,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620063951390</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Soluciona e testa a solução do desafio &quot;Análise de Números&quot;">
+      <created>1620134533199</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1620134533199</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -328,6 +335,7 @@
     <MESSAGE value="Atualiza o README" />
     <MESSAGE value="Update README.md" />
     <MESSAGE value="Soluciona e testa a solução do desafio &quot;Múltiplos&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Soluciona e testa a solução do desafio &quot;Múltiplos&quot;" />
+    <MESSAGE value="Soluciona e testa a solução do desafio &quot;Análise de Números&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Soluciona e testa a solução do desafio &quot;Análise de Números&quot;" />
   </component>
 </project>
