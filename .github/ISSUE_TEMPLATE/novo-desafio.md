@@ -1,7 +1,7 @@
 ---
 name: Novo Desafio
-about: Describe this issue template's purpose here.
-title: ''
+about: Crie um novo desafio seguindo este modelo. 
+title: Nome do Desafio
 labels: desafio
 assignees: ''
 
