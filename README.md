@@ -25,7 +25,7 @@ Sinta-se a vontade para contribuir, **crie uma issue ou pull request**!
 |  Desafio| Nível  | Resolução |Testes |
 |-----------|--------|----------|----------|
 |[Multiplicação Simples](https://github.com/8rux40/dio-java/issues/1)|🟪⬜⬜|🏅 [**MultiplicacaoSimples.java**](https://github.com/8rux40/dio-java/blob/master/src/main/java/com/tardin/desafio/solucionando_problemas_basicos_em_java/MultiplicacaoSimples.java)|✔ [MultiplicacaoSimplesTest.java](https://github.com/8rux40/dio-java/blob/master/src/test/java/com/tardin/desafio/solucionando_problemas_basicos_em_java/MultiplicacaoSimplesTest.java)|
-|[Menor e Posição ](https://github.com/8rux40/dio-java/issues/2)|🟪⬜⬜|_Aguardando solução_|🚫 _Aguardando testes_|
+|[Menor e Posição ](https://github.com/8rux40/dio-java/issues/2)|🟪⬜⬜|🏅 [**MenorEPosicao.java**](https://github.com/8rux40/dio-java/blob/master/src/main/java/com/tardin/desafio/solucionando_problemas_basicos_em_java/MenorEPosicao.java)|🚫 _Aguardando testes_|
 |[Números Ímpares ](https://github.com/8rux40/dio-java/issues/3)|🟪⬜⬜|_Aguardando solução_|🚫 _Aguardando testes_|
 
 ## 🔸 Praticando programação em Java
