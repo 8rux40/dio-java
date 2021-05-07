@@ -7,7 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="149fb175-dc0c-4b86-bc20-08dd49a375d7" name="Default Changelist" comment="Soluciona e testa a solução do desafio &quot;Multiplicação Simples&quot;">
+    <list default="true" id="149fb175-dc0c-4b86-bc20-08dd49a375d7" name="Default Changelist" comment="Soluciona o desafio #2 &quot;Menor e Posição&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,13 +97,13 @@
       <recent name="com.tardin.desafio.solucionando_desafios_matematicos_em_java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MenorEPosicao">
-    <configuration name="AnaliseDeNumeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tardin.desafio.solucionando_desafios_matematicos_em_java.AnaliseDeNumeros" />
+  <component name="RunManager" selected="Application.NumerosImpares">
+    <configuration name="MenorEPosicao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tardin.desafio.solucionando_problemas_basicos_em_java.MenorEPosicao" />
       <module name="dio_java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tardin.desafio.solucionando_desafios_matematicos_em_java.*" />
+          <option name="PATTERN" value="com.tardin.desafio.solucionando_problemas_basicos_em_java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,8 +111,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MenorEPosicao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tardin.desafio.solucionando_problemas_basicos_em_java.MenorEPosicao" />
+    <configuration name="NumerosImpares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tardin.desafio.solucionando_problemas_basicos_em_java.NumerosImpares" />
       <module name="dio_java.main" />
       <extension name="coverage">
         <pattern>
@@ -200,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumerosImpares" />
         <item itemvalue="Application.MenorEPosicao" />
         <item itemvalue="Gradle.MultiplicacaoSimplesTest" />
         <item itemvalue="Gradle.AnaliseDeNumerosTest" />
         <item itemvalue="Gradle.AnaliseDeNumerosTest.testWithClosedInputs" />
-        <item itemvalue="Application.AnaliseDeNumeros" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +222,7 @@
       <workItem from="1619713603775" duration="3250000" />
       <workItem from="1619798844504" duration="3968000" />
       <workItem from="1620221990503" duration="643000" />
-      <workItem from="1620410276628" duration="2884000" />
+      <workItem from="1620410276628" duration="4879000" />
     </task>
     <task id="LOCAL-00001" summary="Primeiro desafio solucionado e testado">
       <created>1619702355457</created>
@@ -308,7 +308,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620148404398</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Soluciona o desafio #2 &quot;Menor e Posição&quot;">
+      <created>1620415259427</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1620415259427</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -338,6 +345,7 @@
     <MESSAGE value="Soluciona e testa a solução do desafio &quot;Múltiplos&quot;" />
     <MESSAGE value="Soluciona e testa a solução do desafio &quot;Análise de Números&quot;" />
     <MESSAGE value="Soluciona e testa a solução do desafio &quot;Multiplicação Simples&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Soluciona e testa a solução do desafio &quot;Multiplicação Simples&quot;" />
+    <MESSAGE value="Soluciona o desafio #2 &quot;Menor e Posição&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Soluciona o desafio #2 &quot;Menor e Posição&quot;" />
   </component>
 </project>
