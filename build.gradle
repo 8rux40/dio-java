@@ -13,7 +13,9 @@ dependencies {
     implementation 'junit:junit:4.13.1'
     implementation 'junit:junit:4.13.1'
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.6.0'
+    testImplementation 'org.junit.jupiter:junit-jupiter-params'
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-params'
     implementation 'org.mockito:mockito-core:3.9.0'
 }
 
