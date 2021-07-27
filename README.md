@@ -42,3 +42,10 @@ Sinta-se a vontade para contribuir, **crie uma issue ou pull request**!
 |[Divisores](https://github.com/8rux40/dio-java/issues/9)|🟪🟪🟪|_Aguardando solução_|🚫 _Aguardando testes_|
 |[Análise de Números?](https://github.com/8rux40/dio-java/issues/10)|🟪⬜⬜|_Aguardando solução_|🚫 _Aguardando testes_|
 |[Contagem repetida de números](https://github.com/8rux40/dio-java/issues/11)|🟪⬜⬜|_Aguardando solução_|🚫 _Aguardando testes_|
+
+## 🔸 Primeiros Passos em Java
+|  Desafio| Nível  | Resolução |Testes |
+|-----------|--------|----------|----------|
+|[Domingo de Manhã](https://github.com/8rux40/dio-java/issues/12)|🟪⬜⬜|🏅 [**DomingoDeManha.java**](https://github.com/8rux40/dio-java/blob/master/src/main/java/com/tardin/desafio/primeiros_passos_em_java/DomingoDeManha.java)|✔ [DomingoDeManha.java](https://github.com/8rux40/dio-java/blob/master/src/test/java/com/tardin/desafio/primeiros_passos_em_java/DomingoDeManhaTest.java)|
+|[A Resposta de Theon](https://github.com/8rux40/dio-java/issues/13)|🟪⬜⬜|_Aguardando solução_|🚫 _Aguardando testes_|
+|[Divisores I](https://github.com/8rux40/dio-java/issues/14)|🟪⬜⬜|_Aguardando solução_|🚫 _Aguardando testes_|
