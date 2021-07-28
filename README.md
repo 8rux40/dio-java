@@ -32,7 +32,7 @@ Sinta-se a vontade para contribuir, **crie uma issue ou pull request**!
 |  Desafio| Nível  | Resolução |Testes |
 |-----------|--------|----------|----------|
 |[Domingo de Manhã](https://github.com/8rux40/dio-java/issues/12)|🟪⬜⬜|🏅 [**DomingoDeManha.java**](https://github.com/8rux40/dio-java/blob/master/src/main/java/com/tardin/desafio/primeiros_passos_em_java/DomingoDeManha.java)|✔ [DomingoDeManhaTest.java](https://github.com/8rux40/dio-java/blob/master/src/test/java/com/tardin/desafio/primeiros_passos_em_java/DomingoDeManhaTest.java)|
-|[A Resposta de Theon](https://github.com/8rux40/dio-java/issues/13)|🟪⬜⬜|_Aguardando solução_|🚫 _Aguardando testes_|
+|[A Resposta de Theon](https://github.com/8rux40/dio-java/issues/13)|🟪⬜⬜|🏅 [**ARespostaDeTheon.java**](https://github.com/8rux40/dio-java/blob/master/src/main/java/com/tardin/desafio/primeiros_passos_em_java/ARespostaDeTheon.java)|✔ [ARespostaDeTheonTest.java](https://github.com/8rux40/dio-java/blob/master/src/test/java/com/tardin/desafio/primeiros_passos_em_java/ARespostaDeTheonTest.java)|
 |[Divisores I](https://github.com/8rux40/dio-java/issues/14)|🟪⬜⬜|🏅 [**DivisoresI.java**](https://github.com/8rux40/dio-java/blob/master/src/main/java/com/tardin/desafio/primeiros_passos_em_java/DivisoresI.java)|✔ [DivisoresITest.java](https://github.com/8rux40/dio-java/blob/master/src/test/java/com/tardin/desafio/primeiros_passos_em_java/DivisoresITest.java)|
 
 ## 🔸 Praticando programação em Java
