@@ -45,9 +45,9 @@ Sinta-se a vontade para contribuir, **crie uma issue ou pull request**!
 ## 🔸 Praticando programação em Java
 |  Desafio| Nível  | Resolução |Testes |
 |-----------|--------|----------|----------|
-|[Abreviando posts do blog](https://github.com/8rux40/dio-java/issues/4)|🟪🟪⬜|_Aguardando solução_|❌ _Aguardando testes_|
-|[Conjuntos bons ou ruins?](https://github.com/8rux40/dio-java/issues/5)|🟪🟪⬜|_Aguardando solução_|❌ _Aguardando testes_|
-|[Encontre a maior substring](https://github.com/8rux40/dio-java/issues/6)|🟪🟪⬜|_Aguardando solução_|❌ _Aguardando testes_|
+|[Abreviando posts do blog](https://github.com/8rux40/dio-java/issues/4)|🟪🟪⬜|❌ _Aguardando solução_|❌ _Aguardando testes_|
+|[Conjuntos bons ou ruins?](https://github.com/8rux40/dio-java/issues/5)|🟪🟪⬜|❌ _Aguardando solução_|❌ _Aguardando testes_|
+|[Encontre a maior substring](https://github.com/8rux40/dio-java/issues/6)|🟪🟪⬜|❌ _Aguardando solução_|❌ _Aguardando testes_|
 
 
 ## 🔸 Desafios aritméticos em Java
