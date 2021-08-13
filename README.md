@@ -53,6 +53,6 @@ Sinta-se a vontade para contribuir, **crie uma issue ou pull request**!
 ## 🔸 Desafios aritméticos em Java
 |  Desafio| Nível  | Resolução |Testes |
 |-----------|--------|----------|----------|
-|[Divisores](https://github.com/8rux40/dio-java/issues/9)|🟪🟪🟪|_Aguardando solução_|❌ _Aguardando testes_|
-|[Análise de Números?](https://github.com/8rux40/dio-java/issues/10)|🟪⬜⬜|_Aguardando solução_|❌ _Aguardando testes_|
-|[Contagem repetida de números](https://github.com/8rux40/dio-java/issues/11)|🟪⬜⬜|_Aguardando solução_|❌ _Aguardando testes_
+|[Divisores](https://github.com/8rux40/dio-java/issues/9)|🟪🟪🟪|❌ _Aguardando solução_|❌ _Aguardando testes_|
+|[Análise de Números?](https://github.com/8rux40/dio-java/issues/10)|🟪⬜⬜|❌ _Aguardando solução_|❌ _Aguardando testes_|
+|[Contagem repetida de números](https://github.com/8rux40/dio-java/issues/11)|🟪⬜⬜|❌ _Aguardando solução_|❌ _Aguardando testes_
