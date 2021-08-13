@@ -35,6 +35,13 @@ Sinta-se a vontade para contribuir, **crie uma issue ou pull request**!
 |[A Resposta de Theon](https://github.com/8rux40/dio-java/issues/13)|🟪⬜⬜|🏅 [**ARespostaDeTheon.java**](https://github.com/8rux40/dio-java/blob/master/src/main/java/com/tardin/desafio/primeiros_passos_em_java/ARespostaDeTheon.java)|✔ [ARespostaDeTheonTest.java](https://github.com/8rux40/dio-java/blob/master/src/test/java/com/tardin/desafio/primeiros_passos_em_java/ARespostaDeTheonTest.java)|
 |[Divisores I](https://github.com/8rux40/dio-java/issues/14)|🟪⬜⬜|🏅 [**DivisoresI.java**](https://github.com/8rux40/dio-java/blob/master/src/main/java/com/tardin/desafio/primeiros_passos_em_java/DivisoresI.java)|✔ [DivisoresITest.java](https://github.com/8rux40/dio-java/blob/master/src/test/java/com/tardin/desafio/primeiros_passos_em_java/DivisoresITest.java)|
 
+## 🔸 Desafios matemáticos em Java
+|  Desafio| Nível  | Resolução |Testes |
+|-----------|--------|----------|----------|
+|[Área Direita](https://github.com/8rux40/dio-java/issues/15)|🟪⬜⬜|🏅 [**AreaDireita.java**](https://github.com/8rux40/dio-java/blob/master/src/main/java/com/tardin/desafio/desafios_matematicos_em_java/AreaDireita.java)|✔ [AreaDireitaTest.java](https://github.com/8rux40/dio-java/blob/master/src/test/java/com/tardin/desafio/desafios_matematicos_em_java/AreaDireitaTest.java)|
+|[Área Esquerda](https://github.com/8rux40/dio-java/issues/16)|🟪⬜⬜|🏅 [**AreaEsquerda.java**](https://github.com/8rux40/dio-java/blob/master/src/main/java/com/tardin/desafio/desafios_matematicos_em_java/AreaEsquerda.java)|✔ [AreaEsquerdaTest.java](https://github.com/8rux40/dio-java/blob/master/src/test/java/com/tardin/desafio/desafios_matematicos_em_java/AreaEsquerdaTest.java)|
+|[Área Inferior](https://github.com/8rux40/dio-java/issues/17)|🟪⬜⬜|🏅 [**AreaInferior.java**](https://github.com/8rux40/dio-java/blob/master/src/main/java/com/tardin/desafio/desafios_matematicos_em_java/AreaInferior.java)|✔ [AreaInferiorTest.java](https://github.com/8rux40/dio-java/blob/master/src/test/java/com/tardin/desafio/desafios_matematicos_em_java/AreaInferiorTest.java)|
+
 ## 🔸 Praticando programação em Java
 |  Desafio| Nível  | Resolução |Testes |
 |-----------|--------|----------|----------|
